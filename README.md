@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sales Data Analysis Using MySQL
 
 ## Project Overview
@@ -122,4 +122,4 @@ This project demonstrates the practical application of SQL for sales data analys
 =======
 # sales_analysis_queries
 Beginner-friendly Sales Data Analysis project using MySQL to analyze sales performance, revenue, product demand, customer spending, and city-wise trends through SQL queries. Includes a sample dataset and SQL scripts for data analysis.
->>>>>>> 13a9b21ead4821a3aa5c86d7dd731fe8c9e66d58
+
